@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;eAuctions.jar&apos; to &apos;lib&apos;&#x0A;- Original project: &apos;4_eAuctions_Server_v2&apos;&#x0A;- Destination element: &apos;lib&apos;&#x0A;- Original element: &apos;eAuctions.jar&apos;" description="Copy file" element1="dist/eAuctions.jar" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1636108654207" target="/4_eAuctions_Client/lib" units="0" version="1.0"/>
+</session>
