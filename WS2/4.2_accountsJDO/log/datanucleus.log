@@ -1,0 +1,80 @@
+26-11-21_11:46:50 (main) WARN  [DataNucleus.Datastore] - Default type for java type of java.math.BigInteger was previously jdbc-type=NUMERIC but this is not provided by the JDBC driver! Please report this to the DataNucleus developers
+26-11-21_11:46:50 (main) WARN  [DataNucleus.Query] - Query for candidates of es.deusto.ingenieria.sd.jdo.accounts.Account and subclasses resulted in no possible candidates : Persistent class "es.deusto.ingenieria.sd.jdo.accounts.Account" has no table in the database, but the operation requires it. Please check the specification of the MetaData for this class.
+26-11-21_11:46:50 (main) WARN  [DataNucleus.Query] - Query for candidates of es.deusto.ingenieria.sd.jdo.accounts.User and subclasses resulted in no possible candidates : Persistent class "es.deusto.ingenieria.sd.jdo.accounts.User" has no table in the database, but the operation requires it. Please check the specification of the MetaData for this class.
+26-11-21_11:46:50 (main) WARN  [DataNucleus.Query] - Query for candidates of es.deusto.ingenieria.sd.jdo.accounts.User and subclasses resulted in no possible candidates : Persistent class "es.deusto.ingenieria.sd.jdo.accounts.User" has no table in the database, but the operation requires it. Please check the specification of the MetaData for this class.
+26-11-21_11:46:50 (main) WARN  [DataNucleus.Query] - Query for candidates of es.deusto.ingenieria.sd.jdo.accounts.Address and subclasses resulted in no possible candidates : Persistent class "es.deusto.ingenieria.sd.jdo.accounts.Address" has no table in the database, but the operation requires it. Please check the specification of the MetaData for this class.
+26-11-21_11:47:06 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 6.0.0.m2) for API "JDO"
+26-11-21_11:47:06 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/Users/mentxaka/Documents/Workspace/UD-SoftwareDesign/WS2/4.2_accountsJDO/bin/es/deusto/ingenieria/sd/jdo/accounts/Account.class" with enhanced definition
+26-11-21_11:47:06 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/Users/mentxaka/Documents/Workspace/UD-SoftwareDesign/WS2/4.2_accountsJDO/bin/es/deusto/ingenieria/sd/jdo/accounts/Address.class" with enhanced definition
+26-11-21_11:47:06 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/Users/mentxaka/Documents/Workspace/UD-SoftwareDesign/WS2/4.2_accountsJDO/bin/es/deusto/ingenieria/sd/jdo/accounts/User.class" with enhanced definition
+26-11-21_11:47:06 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+26-11-21_11:47:20 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 6.0.0.m2) for API "JDO"
+26-11-21_11:47:20 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/Users/mentxaka/Documents/Workspace/UD-SoftwareDesign/WS2/4.2_accountsJDO/bin/es/deusto/ingenieria/sd/jdo/accounts/Account.class" with enhanced definition
+26-11-21_11:47:20 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/Users/mentxaka/Documents/Workspace/UD-SoftwareDesign/WS2/4.2_accountsJDO/bin/es/deusto/ingenieria/sd/jdo/accounts/Address.class" with enhanced definition
+26-11-21_11:47:20 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/Users/mentxaka/Documents/Workspace/UD-SoftwareDesign/WS2/4.2_accountsJDO/bin/es/deusto/ingenieria/sd/jdo/accounts/User.class" with enhanced definition
+26-11-21_11:47:20 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+26-11-21_11:47:20 (main) INFO  [DataNucleus.SchemaTool] - DataNucleus SchemaTool : Creation of the schema for classes
+26-11-21_11:47:20 (main) INFO  [DataNucleus.SchemaTool] - DataNucleus SchemaTool : Classpath
+26-11-21_11:47:20 (main) INFO  [DataNucleus.SchemaTool] - >>  /Users/mentxaka/Documents/Workspace/UD-SoftwareDesign/WS2/4.2_accountsJDO/lib/datanucleus-api-jdo-6.0.0-m2.jar
+26-11-21_11:47:20 (main) INFO  [DataNucleus.SchemaTool] - >>  /Users/mentxaka/Documents/Workspace/UD-SoftwareDesign/WS2/4.2_accountsJDO/lib/datanucleus-cache-6.0.0-m2.jar
+26-11-21_11:47:20 (main) INFO  [DataNucleus.SchemaTool] - >>  /Users/mentxaka/Documents/Workspace/UD-SoftwareDesign/WS2/4.2_accountsJDO/lib/datanucleus-core-6.0.0-m2.jar
+26-11-21_11:47:20 (main) INFO  [DataNucleus.SchemaTool] - >>  /Users/mentxaka/Documents/Workspace/UD-SoftwareDesign/WS2/4.2_accountsJDO/lib/datanucleus-rdbms-6.0.0-m2.jar
+26-11-21_11:47:20 (main) INFO  [DataNucleus.SchemaTool] - >>  /Users/mentxaka/Documents/Workspace/UD-SoftwareDesign/WS2/4.2_accountsJDO/lib/javax.jdo-3.2.0-release.jar
+26-11-21_11:47:20 (main) INFO  [DataNucleus.SchemaTool] - >>  /Users/mentxaka/Documents/Workspace/UD-SoftwareDesign/WS2/4.2_accountsJDO/lib/log4j-1.2.14.jar
+26-11-21_11:47:20 (main) INFO  [DataNucleus.SchemaTool] - >>  /Users/mentxaka/Documents/Workspace/UD-SoftwareDesign/WS2/4.2_accountsJDO/lib/mysql-connector-java-8.0.26.jar
+26-11-21_11:47:20 (main) INFO  [DataNucleus.SchemaTool] - >>  /Users/mentxaka/Documents/Workspace/UD-SoftwareDesign/WS2/4.2_accountsJDO/bin
+26-11-21_11:47:20 (main) INFO  [DataNucleus.SchemaTool] - >>  /Users/mentxaka/Documents/Workspace/UD-SoftwareDesign/WS2/4.2_accountsJDO/resources
+26-11-21_11:47:21 (main) WARN  [DataNucleus.Datastore] - Default type for java type of java.math.BigInteger was previously jdbc-type=NUMERIC but this is not provided by the JDBC driver! Please report this to the DataNucleus developers
+26-11-21_11:47:21 (main) INFO  [DataNucleus.SchemaTool] - DataNucleus SchemaTool : Input Files
+26-11-21_11:47:21 (main) INFO  [DataNucleus.SchemaTool] - >>  /Users/mentxaka/Documents/Workspace/UD-SoftwareDesign/WS2/4.2_accountsJDO/bin/es/deusto/ingenieria/sd/jdo/accounts/Account.class
+26-11-21_11:47:21 (main) INFO  [DataNucleus.SchemaTool] - >>  /Users/mentxaka/Documents/Workspace/UD-SoftwareDesign/WS2/4.2_accountsJDO/bin/es/deusto/ingenieria/sd/jdo/accounts/Address.class
+26-11-21_11:47:21 (main) INFO  [DataNucleus.SchemaTool] - >>  /Users/mentxaka/Documents/Workspace/UD-SoftwareDesign/WS2/4.2_accountsJDO/bin/es/deusto/ingenieria/sd/jdo/accounts/Main.class
+26-11-21_11:47:21 (main) INFO  [DataNucleus.SchemaTool] - >>  /Users/mentxaka/Documents/Workspace/UD-SoftwareDesign/WS2/4.2_accountsJDO/bin/es/deusto/ingenieria/sd/jdo/accounts/User.class
+26-11-21_11:47:21 (main) WARN  [DataNucleus.Datastore] - SQL Warning : 'BINARY as attribute of a type' is deprecated and will be removed in a future release. Please use a CHARACTER SET clause with _bin collation instead
+26-11-21_11:47:21 (main) WARN  [DataNucleus.Datastore] - SQL Warning : 'BINARY as attribute of a type' is deprecated and will be removed in a future release. Please use a CHARACTER SET clause with _bin collation instead
+26-11-21_11:47:21 (main) WARN  [DataNucleus.Datastore] - SQL Warning : 'BINARY as attribute of a type' is deprecated and will be removed in a future release. Please use a CHARACTER SET clause with _bin collation instead
+26-11-21_11:47:21 (main) WARN  [DataNucleus.Datastore] - SQL Warning : 'BINARY as attribute of a type' is deprecated and will be removed in a future release. Please use a CHARACTER SET clause with _bin collation instead
+26-11-21_11:47:21 (main) WARN  [DataNucleus.Datastore] - SQL Warning : 'BINARY as attribute of a type' is deprecated and will be removed in a future release. Please use a CHARACTER SET clause with _bin collation instead
+26-11-21_11:47:21 (main) WARN  [DataNucleus.Datastore] - SQL Warning : 'BINARY as attribute of a type' is deprecated and will be removed in a future release. Please use a CHARACTER SET clause with _bin collation instead
+26-11-21_11:47:21 (main) WARN  [DataNucleus.Datastore] - SQL Warning : 'BINARY as attribute of a type' is deprecated and will be removed in a future release. Please use a CHARACTER SET clause with _bin collation instead
+26-11-21_11:47:21 (main) WARN  [DataNucleus.Datastore] - SQL Warning : 'BINARY as attribute of a type' is deprecated and will be removed in a future release. Please use a CHARACTER SET clause with _bin collation instead
+26-11-21_11:47:21 (main) WARN  [DataNucleus.Datastore] - SQL Warning : 'BINARY as attribute of a type' is deprecated and will be removed in a future release. Please use a CHARACTER SET clause with _bin collation instead
+26-11-21_11:47:22 (main) WARN  [DataNucleus.Datastore] - SQL Warning : 'BINARY as attribute of a type' is deprecated and will be removed in a future release. Please use a CHARACTER SET clause with _bin collation instead
+26-11-21_11:47:22 (main) WARN  [DataNucleus.Datastore] - SQL Warning : 'BINARY as attribute of a type' is deprecated and will be removed in a future release. Please use a CHARACTER SET clause with _bin collation instead
+26-11-21_11:47:22 (main) INFO  [DataNucleus.SchemaTool] - DataNucleus SchemaTool completed successfully
+26-11-21_11:48:38 (main) WARN  [DataNucleus.Datastore] - Default type for java type of java.math.BigInteger was previously jdbc-type=NUMERIC but this is not provided by the JDBC driver! Please report this to the DataNucleus developers
+26-11-21_11:48:38 (main) WARN  [DataNucleus.Datastore] - SQL Warning : 'BINARY as attribute of a type' is deprecated and will be removed in a future release. Please use a CHARACTER SET clause with _bin collation instead
+26-11-21_11:48:38 (main) WARN  [DataNucleus.Datastore] - SQL Warning : 'BINARY as attribute of a type' is deprecated and will be removed in a future release. Please use a CHARACTER SET clause with _bin collation instead
+26-11-21_11:48:38 (main) WARN  [DataNucleus.Datastore] - SQL Warning : 'BINARY as attribute of a type' is deprecated and will be removed in a future release. Please use a CHARACTER SET clause with _bin collation instead
+26-11-21_11:48:38 (main) WARN  [DataNucleus.Datastore] - SQL Warning : 'BINARY as attribute of a type' is deprecated and will be removed in a future release. Please use a CHARACTER SET clause with _bin collation instead
+26-11-21_11:48:38 (main) WARN  [DataNucleus.Datastore] - SQL Warning : 'BINARY as attribute of a type' is deprecated and will be removed in a future release. Please use a CHARACTER SET clause with _bin collation instead
+26-11-21_11:48:38 (main) WARN  [DataNucleus.Datastore] - SQL Warning : 'BINARY as attribute of a type' is deprecated and will be removed in a future release. Please use a CHARACTER SET clause with _bin collation instead
+26-11-21_11:48:38 (main) WARN  [DataNucleus.Datastore] - SQL Warning : 'BINARY as attribute of a type' is deprecated and will be removed in a future release. Please use a CHARACTER SET clause with _bin collation instead
+26-11-21_11:48:38 (main) WARN  [DataNucleus.Datastore] - SQL Warning : 'BINARY as attribute of a type' is deprecated and will be removed in a future release. Please use a CHARACTER SET clause with _bin collation instead
+26-11-21_11:48:39 (main) WARN  [DataNucleus.Datastore] - SQL Warning : 'BINARY as attribute of a type' is deprecated and will be removed in a future release. Please use a CHARACTER SET clause with _bin collation instead
+26-11-21_11:48:39 (main) WARN  [DataNucleus.Datastore] - SQL Warning : 'BINARY as attribute of a type' is deprecated and will be removed in a future release. Please use a CHARACTER SET clause with _bin collation instead
+26-11-21_11:48:39 (main) WARN  [DataNucleus.Datastore] - SQL Warning : 'BINARY as attribute of a type' is deprecated and will be removed in a future release. Please use a CHARACTER SET clause with _bin collation instead
+26-11-21_11:52:56 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 6.0.0.m2) for API "JDO"
+26-11-21_11:52:57 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/Users/mentxaka/Documents/Workspace/UD-SoftwareDesign/WS2/4.2_accountsJDO/bin/es/deusto/ingenieria/sd/jdo/accounts/Account.class" with enhanced definition
+26-11-21_11:52:57 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/Users/mentxaka/Documents/Workspace/UD-SoftwareDesign/WS2/4.2_accountsJDO/bin/es/deusto/ingenieria/sd/jdo/accounts/Address.class" with enhanced definition
+26-11-21_11:52:57 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/Users/mentxaka/Documents/Workspace/UD-SoftwareDesign/WS2/4.2_accountsJDO/bin/es/deusto/ingenieria/sd/jdo/accounts/User.class" with enhanced definition
+26-11-21_11:52:57 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+26-11-21_11:52:57 (main) INFO  [DataNucleus.SchemaTool] - DataNucleus SchemaTool : Creation of the schema for classes
+26-11-21_11:52:57 (main) INFO  [DataNucleus.SchemaTool] - DataNucleus SchemaTool : Classpath
+26-11-21_11:52:57 (main) INFO  [DataNucleus.SchemaTool] - >>  /Users/mentxaka/Documents/Workspace/UD-SoftwareDesign/WS2/4.2_accountsJDO/lib/datanucleus-api-jdo-6.0.0-m2.jar
+26-11-21_11:52:57 (main) INFO  [DataNucleus.SchemaTool] - >>  /Users/mentxaka/Documents/Workspace/UD-SoftwareDesign/WS2/4.2_accountsJDO/lib/datanucleus-cache-6.0.0-m2.jar
+26-11-21_11:52:57 (main) INFO  [DataNucleus.SchemaTool] - >>  /Users/mentxaka/Documents/Workspace/UD-SoftwareDesign/WS2/4.2_accountsJDO/lib/datanucleus-core-6.0.0-m2.jar
+26-11-21_11:52:57 (main) INFO  [DataNucleus.SchemaTool] - >>  /Users/mentxaka/Documents/Workspace/UD-SoftwareDesign/WS2/4.2_accountsJDO/lib/datanucleus-rdbms-6.0.0-m2.jar
+26-11-21_11:52:57 (main) INFO  [DataNucleus.SchemaTool] - >>  /Users/mentxaka/Documents/Workspace/UD-SoftwareDesign/WS2/4.2_accountsJDO/lib/javax.jdo-3.2.0-release.jar
+26-11-21_11:52:57 (main) INFO  [DataNucleus.SchemaTool] - >>  /Users/mentxaka/Documents/Workspace/UD-SoftwareDesign/WS2/4.2_accountsJDO/lib/log4j-1.2.14.jar
+26-11-21_11:52:57 (main) INFO  [DataNucleus.SchemaTool] - >>  /Users/mentxaka/Documents/Workspace/UD-SoftwareDesign/WS2/4.2_accountsJDO/lib/mysql-connector-java-8.0.26.jar
+26-11-21_11:52:57 (main) INFO  [DataNucleus.SchemaTool] - >>  /Users/mentxaka/Documents/Workspace/UD-SoftwareDesign/WS2/4.2_accountsJDO/bin
+26-11-21_11:52:57 (main) INFO  [DataNucleus.SchemaTool] - >>  /Users/mentxaka/Documents/Workspace/UD-SoftwareDesign/WS2/4.2_accountsJDO/resources
+26-11-21_11:52:58 (main) WARN  [DataNucleus.Datastore] - Default type for java type of java.math.BigInteger was previously jdbc-type=NUMERIC but this is not provided by the JDBC driver! Please report this to the DataNucleus developers
+26-11-21_11:52:58 (main) INFO  [DataNucleus.SchemaTool] - DataNucleus SchemaTool : Input Files
+26-11-21_11:52:58 (main) INFO  [DataNucleus.SchemaTool] - >>  /Users/mentxaka/Documents/Workspace/UD-SoftwareDesign/WS2/4.2_accountsJDO/bin/es/deusto/ingenieria/sd/jdo/accounts/Account.class
+26-11-21_11:52:58 (main) INFO  [DataNucleus.SchemaTool] - >>  /Users/mentxaka/Documents/Workspace/UD-SoftwareDesign/WS2/4.2_accountsJDO/bin/es/deusto/ingenieria/sd/jdo/accounts/Address.class
+26-11-21_11:52:58 (main) INFO  [DataNucleus.SchemaTool] - >>  /Users/mentxaka/Documents/Workspace/UD-SoftwareDesign/WS2/4.2_accountsJDO/bin/es/deusto/ingenieria/sd/jdo/accounts/Main.class
+26-11-21_11:52:58 (main) INFO  [DataNucleus.SchemaTool] - >>  /Users/mentxaka/Documents/Workspace/UD-SoftwareDesign/WS2/4.2_accountsJDO/bin/es/deusto/ingenieria/sd/jdo/accounts/User.class
+26-11-21_11:52:58 (main) INFO  [DataNucleus.SchemaTool] - DataNucleus SchemaTool completed successfully
+26-11-21_11:54:10 (main) WARN  [DataNucleus.Datastore] - Default type for java type of java.math.BigInteger was previously jdbc-type=NUMERIC but this is not provided by the JDBC driver! Please report this to the DataNucleus developers
