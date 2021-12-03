@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" output="bin" path="src"/>
-	<classpathentry kind="var" path="JRE_LIB" rootpath="JRE_SRCROOT" sourcepath="JRE_SRC"/>
+	<classpathentry kind="var" path="JRE_LIB" sourcepath="JRE_SRC"/>
 	<classpathentry kind="lib" path="/Users/mentxaka/Documents/Workspace/UD-SoftwareDesign/WS2/4_eAuctions_Server_v3/lib/commons-codec-1.15.jar"/>
 	<classpathentry kind="lib" path="/Users/mentxaka/Documents/Workspace/UD-SoftwareDesign/WS2/4_eAuctions_Server_v3/lib/datanucleus-api-jdo-6.0.0-m2.jar"/>
 	<classpathentry kind="lib" path="/Users/mentxaka/Documents/Workspace/UD-SoftwareDesign/WS2/4_eAuctions_Server_v3/lib/datanucleus-cache-6.0.0-m2.jar"/>
@@ -12,5 +12,6 @@
 	<classpathentry kind="lib" path="/Users/mentxaka/Documents/Workspace/UD-SoftwareDesign/WS2/4_eAuctions_Server_v3/lib/mysql-connector-java-8.0.26.jar"/>
 	<classpathentry kind="con" path="/Users/mentxaka/Documents/Workspace/UD-SoftwareDesign/WS2/4_eAuctions_Server_v3/bin"/>
 	<classpathentry kind="con" path="/Users/mentxaka/Documents/Workspace/UD-SoftwareDesign/WS2/4_eAuctions_Server_v3/resources"/>
+	<classpathentry kind="lib" path="lib/CurrencyExchange.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
